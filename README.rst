@@ -1,20 +1,12 @@
 Coveralls for python
 ====================
 
-.. image:: https://img.shields.io/coveralls/coagulant/coveralls-python.svg
-    :target: https://coveralls.io/r/coagulant/coveralls-python
+.. image:: https://img.shields.io/coveralls/josephharrington/coveralls-python.svg
+    :target: https://coveralls.io/r/josephharrington/coveralls-python
 
-.. image:: https://img.shields.io/travis/coagulant/coveralls-python/master.svg
-    :target: https://travis-ci.org/coagulant/coveralls-python
+.. image:: https://img.shields.io/travis/josephharrington/coveralls-python/master.svg
+    :target: https://travis-ci.org/josephharrington/coveralls-python
 
-.. image:: https://img.shields.io/pypi/v/coveralls.svg
-    :target: https://pypi.python.org/pypi/coveralls
-
-.. image:: https://img.shields.io/pypi/pyversions/coveralls.svg
-    :target: https://pypi.python.org/pypi/coveralls/
-
-.. image:: https://img.shields.io/pypi/dd/coveralls.svg
-    :target: https://pypi.python.org/pypi/coveralls/
 
 `Coveralls.io`_ is service to publish your coverage stats online with a lot of `nice features`_.
 This package provides seamless integration with ``coverage.py`` in your python projects.
